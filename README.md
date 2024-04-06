@@ -1,4 +1,6 @@
-# Implementation of Univariate Linear Regression
+## Implementation of Univariate Linear Regression
+## NAME: S.Sanjay Balaji
+## REGISTER NUMBER: 212223240149
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -47,9 +49,7 @@ plt.show()
 ```
 ## Output:
 
-![image](https://github.com/SanjayBalaji0/Find-the-best-fit-line-using-Least-Squares-Method/assets/145533553/348118b3-2b5d-4a53-81c5-0f8090f85ef0)
-
-![image](https://github.com/SanjayBalaji0/Find-the-best-fit-line-using-Least-Squares-Method/assets/145533553/1decbe66-8ec8-4df6-830e-fd3a989519b2)
+[image](https://github.com/SanjayBalaji0/Find-the-best-fit-line-using-Least-Squares-Method/assets/145533553/1decbe66-8ec8-4df6-830e-fd3a989519b2)
 
 
 
