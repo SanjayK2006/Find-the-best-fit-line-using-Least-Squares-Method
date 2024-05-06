@@ -1,6 +1,4 @@
 ## Implementation of Univariate Linear Regression
-## NAME: S.Sanjay Balaji
-## REGISTER NUMBER: 212223240149
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -22,8 +20,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: S.Sanjay Balaji
-RegisterNumber:  212223240149
+Developed by: Sanjay K
+RegisterNumber:  212223220094
 */
 ```
 ```
